@@ -15,7 +15,3 @@ new SimpleLightbox('.gallery a', {
   captionDelay: 250,
   captionsData: 'alt',
 });
-// lightBox.on('show.simplelightbox', function () {});
-
-//console.log(galleryItems);
-//
